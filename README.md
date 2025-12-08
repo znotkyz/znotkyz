@@ -1,4 +1,26 @@
-## Hi there 👋
+# zNOTkyz 👋
+
+Hi, I am a Game Developer using Unity and Unreal Engine.
+
+# Check out my games 🖥️
+
+- Endless Running (Unreal Engine)
+  - Video: https://youtu.be/xYK6ohz7aj4
+- TIMETACK RACE (Unreal Engine)
+  - Video: https://youtu.be/dlLvsMF8Has
+- THE LITTLE OAK (Unity)
+  - Video:
+    - Trailer: https://youtu.be/f-TocJWDJ2s?si=GG6-XWbbuSzvY_nB
+    - Gameplay: https://youtu.be/j9auoiP-Doo
+- EPIC FORCES (Multiplayer)
+  - Video: https://youtu.be/Dw68ufCRGvs
+- RAINBOW ISLAND II (Unity)
+  - Video: https://youtu.be/r3iP4bGSUFw
+- Finally Farm (Unity)
+  - Video: https://youtu.be/NTSV7D_Epxc
+- Space Collector (Unity)
+  - Video: https://youtu.be/LG7jie9AH9Q
+
 
 <!--
 **znotkyz/znotkyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
