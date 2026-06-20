@@ -12,11 +12,11 @@ Hi, I Develop Games using Unity and Unreal Engine.
   - Video:
     - Trailer: https://youtu.be/f-TocJWDJ2s?si=GG6-XWbbuSzvY_nB
     - Gameplay: https://youtu.be/j9auoiP-Doo
-- EPIC FORCES (Multiplayer)
+- EPIC FORCES Multiplayer (Unity)
   - Video: https://youtu.be/Dw68ufCRGvs
 - RAINBOW ISLAND II (Unity)
   - Video: https://youtu.be/r3iP4bGSUFw
-- Finally Farm (Unity)
+- Finally farm (Unity)
   - Video: https://youtu.be/NTSV7D_Epxc
 - Space Collector (Unity)
   - Video: https://youtu.be/LG7jie9AH9Q
