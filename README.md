@@ -14,7 +14,7 @@ Hi, I Develop Games using Unity and Unreal Engine.
     - Gameplay: https://youtu.be/j9auoiP-Doo
 - EPIC FORCES Multiplayer (Unity)
   - Video: https://youtu.be/Dw68ufCRGvs
-- RAINBOW ISLAND II (Unity)
+- RAINBOW ISLANDS II (Unity)
   - Video: https://youtu.be/r3iP4bGSUFw
 - Finally farm (Unity)
   - Video: https://youtu.be/NTSV7D_Epxc
