@@ -2,6 +2,12 @@
 
 Hi, I Develop Games using Unity and Unreal Engine. 🐶
 
+Open for work contact me via email or phone:
+
+Email: bancha.phanpermpun@gmail.com
+
+Phone: (+66) 95 057 6021
+
 # Check out my works 🖥️
 
 - HUMAN BODY GAMES (Unity)
